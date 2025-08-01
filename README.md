@@ -72,7 +72,7 @@ See `AlphaPlatform.postman_collection.json` for ready-to-use API requests.
 ## Demo Video
 
 Watch this short walkthrough video:
-👉 [Loom Video Link Here](https://www.loom.com/share/your-video-id)
+👉 [Loom Video Link Here](https://www.loom.com/share/0fe9435ebab24c509958181889c8fd77\)
 
 ---
 ## Entity Relationship Diagram (ERD)
